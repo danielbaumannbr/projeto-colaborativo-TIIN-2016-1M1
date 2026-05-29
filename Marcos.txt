@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 
-=======
 Marcos 1
->>>>>>> 9f8c10522ada02ae0e6edc372561136f26a550c5
+
 olá, meu nome e marcos. sou aluno do senai, tenho 16 anos, moro em rio do sul.
 Marcos 2
 KLK, soy marcos avila tengo 15 y no se espero saber mas de como programar un app y me gusta ver anime y nba soy un buen estudiante soy venesolano,
