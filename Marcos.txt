@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 olá, meu nome e marcos. sou aluno do senai, tenho 16 anos, moro em rio do sul.
+=======
+KLK, soy marcos avila tengo 15 y no se espero saber mas de como programar un app y me gusta ver anime y nba soy un buen estudiante soy venesolano,
+entonces si quieren saber que dice traducelo kakakakakka. 
+>>>>>>> b031d59e4ea790f8e4b14216964bef794f6e9859
