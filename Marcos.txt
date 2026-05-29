@@ -1,10 +1,18 @@
+
 <<<<<<< HEAD
 
+Oi, sou Marcos Ávila, tenho 15 anos e não sei, espero aprender mais sobre como programar um aplicativo e gosto de assistir anime e NBA. Sou um bom estudante, sou venezuelano, então se quiserem saber o que diz, traduzam hahaha.
+
+olá, meu nome e marcos. sou aluno do senai, tenho 16 anos, moro em rio do sul.
+
+
 =======
+>>>>>>> f253b8c029b142a723ef2d6a7b70c8de96a419e3
 Marcos 1
->>>>>>> 9f8c10522ada02ae0e6edc372561136f26a550c5
+
 olá, meu nome e marcos. sou aluno do senai, tenho 16 anos, moro em rio do sul.
 Marcos 2
+
 KLK, soy marcos avila tengo 15 y no se espero saber mas de como programar un app y me gusta ver anime y nba soy un buen estudiante soy venesolano,
 entonces si quieren saber que dice traducelo kakakakakka. 
 
